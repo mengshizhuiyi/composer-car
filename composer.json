@@ -1,0 +1,20 @@
+{
+    "name": "zxc/speakin",
+    "description": "speakin service api fro laravel",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zxc",
+            "email": "384808348@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "speakin\\": "src/speakin"
+        }
+    }   
+}
